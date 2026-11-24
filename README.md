@@ -4,7 +4,7 @@ This repository brings together two complementary research implementations inves
 
 ## Keywords
 
-`Large Language Models (LLMs)` · `Generative AI` · `Code Provenance` · `Data Provenance` · `LLM Memorization` · `Membership Inference` · `Min-K% Probability` · `SaMIA` · `Token Probability Analysis` · `Black-Box LLM Auditing` · `Source Code Generation` · `Programming Education` · `AI-Assisted Programming` · 
+`LLMs` · `Code Provenance` · `LLM Memorization` · `Membership Inference` · `Min-K% Probability` · `SaMIA` · `Token Probability Analysis` · `Black-Box LLM Auditing` · `Source Code Generation` · `AI-Assisted Programming` 
 
 ## Research Implementations
 
