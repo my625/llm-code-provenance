@@ -2,6 +2,10 @@
 
 This repository brings together two complementary research implementations investigating **code provenance, memorization, and membership inference in Large Language Models (LLMs)**. The projects explore the identification and analysis of human-written and LLM-generated code, with applications in trustworthy AI and programming education.
 
+## 🔑 Keywords
+
+`Large Language Models (LLMs)` · `Generative AI` · `Code Provenance` · `Data Provenance` · `LLM Memorization` · `Membership Inference` · `Min-K% Probability` · `SaMIA` · `Token Probability Analysis` · `Black-Box LLM Auditing` · `Source Code Generation` · `Programming Education` · `AI-Assisted Programming` · 
+
 ## Research Implementations
 
 ### 1. Black-Box LLM API Auditing
