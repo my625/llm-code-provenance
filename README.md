@@ -106,7 +106,5 @@ For detailed instructions, dataset information, API configuration, and experimen
 The repository includes supplementary code and datasets associated with the respective research implementations. Some datasets, including anonymized student programming submissions, are not publicly released.
 
 
-## Acknowledgements
 
-These implementations support research on LLM data provenance, memorization analysis, membership inference, and trustworthy AI.
 
