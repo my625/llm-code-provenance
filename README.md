@@ -41,7 +41,8 @@ llm-code-provenance/
 │
 ├── black-box-api-auditing/
 │   ├── icws_github.py
-│   ├── data/
+│   ├── generated_python_codes.zip
+│   ├── human_github_pre2021_python.zip
 │   ├── sample_metadata.json
 │   ├── data_provenance_graph.png
 │   └── README.md
@@ -51,11 +52,8 @@ llm-code-provenance/
 │   ├── samia_for_code.py
 │   ├── case_study_code_analysis.py
 │   ├── case_study_metrics.py
+│   ├── requirements.txt
 │   └── README.md
-│
-├── docs/
-├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
