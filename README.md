@@ -105,7 +105,6 @@ For detailed instructions, dataset information, API configuration, and experimen
 
 The repository includes supplementary code and datasets associated with the respective research implementations. Some datasets, including anonymized student programming submissions, are not publicly released.
 
-Please consult the individual project documentation for dataset access and usage conditions.
 
 ## Acknowledgements
 
