@@ -10,7 +10,7 @@ This repository brings together two complementary research implementations inves
 
 ### 1. Black-Box LLM API Auditing
 
-**Paper:** *Auditing Black-Box LLM APIs via Token Probabilities and Data Provenance: A Case Study in Source Code Generation*
+**Paper:** *Auditing Black-Box LLM APIs via Token Probabilities and Data Provenance: A Case Study in Source Code Generation* (IEEE ICWS 2026)
 
 **Directory:** [`black-box-api-auditing/`](./black-box-api-auditing/)
 
@@ -24,7 +24,7 @@ This implementation investigates code provenance in black-box LLM APIs using tok
 
 ### 2. Student Code Provenance and Memorization
 
-**Paper:** *Tracing Code Provenance and Memorization in LLMs for Programming Education*
+**Paper:** *Code Provenance for Process-Oriented Assessment in LLM-Assisted Programming Education (Under Review)*
 
 **Directory:** [`student-code-provenance/`](./student-code-provenance/)
 
