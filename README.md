@@ -13,11 +13,10 @@ This repository brings together two complementary research implementations inves
 This implementation investigates code provenance in black-box LLM APIs using token probabilities and data provenance analysis.
 
 **Key components:**
-- End-to-end research pipeline (`icws_github.py`).
 - Human-written Python code collected from GitHub (pre-2021).
 - LLM-generated Python code samples across different GPT models.
 - Sample metadata and data provenance visualization.
-- OpenRouter API integration for model-based evaluation.
+  
 
 ### 2. Student Code Provenance and Memorization
 
